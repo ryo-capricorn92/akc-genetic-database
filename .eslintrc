@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "process": true,
+    "fetch": true,
+    "document": true
+  },
+  "rules": {
+    "consistent-return": 0,
+    "jsx-a11y/href-no-hash": 0,
+    "no-underscore-dangle": 0
+  }
+}
