@@ -1,0 +1,22 @@
+{
+  "name": "akc-genetic-database",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryo-capricorn92/akc-genetic-database.git",
+  "author": "Ryo Wheatley",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.x",
+    "express": "^4.16.x",
+    "pg": "^7.3.x",
+    "sequelize": "^4.13.x"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.x",
+    "eslint-config-airbnb": "^16.0.x",
+    "eslint-plugin-import": "^2.7.x",
+    "eslint-plugin-jsx-a11y": "^6.0.x",
+    "eslint-plugin-react": "^7.4.x"
+  }
+}
